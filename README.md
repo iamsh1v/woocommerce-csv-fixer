@@ -1,4 +1,4 @@
-# WooCSV Fixer
+# Woocommerce CSV Fixer
 
 **Fix broken WooCommerce CSV files instantly — right in your browser.**
 
@@ -29,23 +29,6 @@ That's it. Your fixed CSV is ready to import into WooCommerce via **Products > I
 ## Privacy
 
 This tool runs **100% in your browser**. Your CSV file is never uploaded to any server. All processing happens locally on your device using JavaScript.
-
-## Run Locally
-
-Just open `index.html` in any browser. No server, no build step, no dependencies.
-
-```bash
-git clone https://github.com/iamsh1v/woocommerce-csv-fixer.git
-cd woocsv-fixer
-open index.html
-```
-
-## Deploy to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings > Pages**
-3. Set source to **main branch, / (root)**
-4. Your site is live at `https://iamsh1v.github.io/woocommerce-csv-fixer`
 
 ## Contributing
 
